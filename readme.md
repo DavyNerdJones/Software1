@@ -1,0 +1,11 @@
+# Software 1 - Python exercises
+
+EG
+
+**My name is Georgios Topalidis**
+
+## Module 1
+I did exercises 1,2,3
+
+## Module 2
+I did exeercises 2,3,4,5,6
