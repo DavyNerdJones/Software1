@@ -1,7 +1,5 @@
 # Software 1 - Python exercises
 
-EG
-
 **My name is Georgios Topalidis**
 
 ## Module 1
