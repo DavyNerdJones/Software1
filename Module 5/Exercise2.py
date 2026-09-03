@@ -1,4 +1,3 @@
-
 while True:
     inch = float(input("Enter length in inches (negative value to quit): "))
 
