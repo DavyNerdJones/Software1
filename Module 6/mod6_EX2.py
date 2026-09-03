@@ -10,8 +10,6 @@ while number != "":
 
 numbers.sort(reverse=True)
 
-print("numbers")
-
 print("The greatest numbers in descending order:")
 
 for n in numbers[:5]:
