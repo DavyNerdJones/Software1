@@ -7,21 +7,29 @@ print(f"Your name is {name}")
 
 
 
-if age > 12:
-     print ("Hello, Welcome to Dim Dungeon")
 
-if age < 12:
-    print("You are a minor , Exiting")
 
 
 while True:
-            print("\n--- MAIN MENU ---")
-            print("Available commands: 'hello', 'help', 'lopeta' , 'inventory' , 'rest'")
+
+            if age < 12:
+                print("You are a minor , Exiting")
+                break
+
+            
+            if age> 12:
+                print ("Hello, Welcome to Dim Dungeon")
+
+            
+
+
+            print ("\n--- MAIN MENU ---")
+            print ("Available commands: 'hello', 'help', 'lopeta' , 'inventory' , 'rest'")
             
             command = input("Enter command: ").strip().lower()
             
             if command == "lopeta":
-                print("Thank you for using the program. Goodbye!")
+                print("Thanks for playing. Until next time!")
                 break
             elif command == "hello":
                 print("Hello there!")
