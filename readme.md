@@ -22,3 +22,9 @@ I did exercises 1,2,3,4,5,6
 
 ## Module 8
 I did exercises 1,2,3
+
+## Module 9
+I did exercises 1,2,3,4
+
+## Module 10
+I did exercises 1,2,3,4
