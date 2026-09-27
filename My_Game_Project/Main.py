@@ -1,3 +1,6 @@
+#TODO TIDY UP the notes, move to functions anything that can be moved. Change the names
+#TODO make it more clear and distinct from each other. Add more rooms, make a bigger map layout.
+
 from Actions import Item
 from Actions import Player
 from Actions import Room
