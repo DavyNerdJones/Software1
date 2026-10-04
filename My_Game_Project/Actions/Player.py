@@ -4,6 +4,8 @@ class Player: #project instructions to add class Player
         self.age = age
         self.backpack = []  # List of items
         self.location = location  # Current room
+        self.locations = []
+        
 
 
     def move(self, direction):
@@ -23,11 +25,11 @@ class Player: #project instructions to add class Player
    
    
     def collect_item(self, item):
-        """Picks up an item from the current room and adds it to inventory."""
+        """Picks up an item from the current room and adds it to inventory. Well hopefully."""
         room_item = item
 
         if room_item:
-          #  self.location.remove_item(room_item)
+            #self.location.remove_item(room_item)
             self.backpack.append(room_item)
             #self.location.item = None  # Remove the item from the room
             print(f"You picked up: {item}")
