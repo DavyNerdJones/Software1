@@ -1,6 +1,4 @@
-#TODO Make the save file a list so it can add more player saves and load from there.
-#TODO Add more rooms, make a bigger map layout.
-#TODO Add healthpoint, dmg to weapons.
+
 
 from Actions import Item
 from Actions import Player
@@ -182,6 +180,3 @@ def main_menu(player):
                 print("Unknown command. Please try again.")
 
 main_menu(player)
-
-
-

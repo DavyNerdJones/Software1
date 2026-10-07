@@ -14,15 +14,6 @@ def rest(hour):
 
 
 
-"""
-def found_item(room_item):
-    backpack = []
-    backpack.append(room_item)
-    print(backpack)
-
-"""
-
-
 def add_item():              #Adds item to backpack, from where, don't know yet
     pr1 = input("Add to your backpack ")
     backpack.append(pr1)
