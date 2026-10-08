@@ -107,14 +107,22 @@ list_of_rooms = [
 # INTRO
 # =========================
 
-with open("intro.txt", "r") as file:
-    intro = file.read()
-    print(intro)
-
-
 with open("instructions.txt", "r") as file:
     instructions = file.read()
     print(instructions)
+
+print("")
+print("")
+print("")
+
+
+# =========================
+# INSTRUCTIONS
+# =========================
+
+with open("intro.txt", "r") as file:
+    intro = file.read()
+    print(intro)
 
 
 print("Welcome to the Dim dungeon")

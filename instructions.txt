@@ -1,1 +1,1 @@
-THESE are the instructions
+Hello, welcome to the Basic Texg game called 'Dim Dungeon. in order to play the game you need to have python installed in your OS, which we'll run with the Visual Code. Game starts by 'pressing' the 'play' button located top right.You enter commands by typing. Have fun.
